@@ -1,0 +1,7 @@
+C:\Users\Igor\source\repos\dotnet poo\dotnet poo\bin\Debug\dotnet poo.exe.config
+C:\Users\Igor\source\repos\dotnet poo\dotnet poo\bin\Debug\dotnet poo.exe
+C:\Users\Igor\source\repos\dotnet poo\dotnet poo\bin\Debug\dotnet poo.pdb
+C:\Users\Igor\source\repos\dotnet poo\dotnet poo\obj\Debug\dotnet poo.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\dotnet poo\dotnet poo\obj\Debug\dotnet poo.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\dotnet poo\dotnet poo\obj\Debug\dotnet poo.exe
+C:\Users\Igor\source\repos\dotnet poo\dotnet poo\obj\Debug\dotnet poo.pdb
